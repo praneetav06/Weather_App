@@ -20,4 +20,4 @@ A simple and intuitive Weather App built using HTML, CSS, and JavaScript. This a
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout.
 - **JavaScript**: Functionality and interactivity.
-- **Weather API**: Fetching weather data 
+- **Weather API**: Fetching weather data from openWeatherMap
